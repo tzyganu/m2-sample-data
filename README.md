@@ -21,3 +21,11 @@ After installation, log in the backend and rebuild the available indexes.
 You also need to copy the `pub` folder in this repository over the `pub` folder of magento.
 
 
+Changelog
+------------
+2014-09-03
+
+ - Fixed tax_class_id source model
+ - Fixed billing agreements table
+
+
