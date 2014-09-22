@@ -23,6 +23,10 @@ You also need to copy the `pub` folder in this repository over the `pub` folder 
 
 Changelog
 ------------
+2014-09-22
+
+ - Made compatible with alpha-96 - good luck installing that :)
+
 2014-09-03
 
  - Fixed tax_class_id source model
