@@ -24,6 +24,10 @@ You also need to copy the `pub` folder in this repository over the `pub` folder 
 Changelog
 ------------
 
+2014-10-06
+ - made compatible with alpha 98
+ - fixed some images issues.
+
 2014-09-23
 
  - fixed admin index page error
