@@ -20,9 +20,17 @@ After installation, log in the backend and rebuild the available indexes.
 
 You also need to copy the `pub` folder in this repository over the `pub` folder of magento.
 
+Last tested version
+---------
+Magento 2-alpha99.
+
 
 Changelog
 ------------
+
+2014-10-14
+ - made compatible with alpha 99
+ - fixed an issue with the `Cell Phones` attribute set.
 
 2014-10-06
  - made compatible with alpha 98
