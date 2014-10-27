@@ -22,11 +22,14 @@ You also need to copy the `pub` folder in this repository over the `pub` folder 
 
 Last tested version
 ---------
-Magento 2-alpha99.
+Magento 2-alpha101.
 
 
 Changelog
 ------------
+
+2014-10-27
+ - made compatible with alpha 101
 
 2014-10-14
  - made compatible with alpha 99

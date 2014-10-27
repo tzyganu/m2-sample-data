@@ -83,7 +83,7 @@ CREATE TABLE `authorization_role` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Admin Role Table';
 
 /*Data for the table `authorization_role` */
-
+insert  into `authorization_role`(`role_id`,`parent_id`,`tree_level`,`sort_order`,`role_type`,`user_id`,`role_name`,`user_type`) values (1,0,1,0,'G',0,'Administrators','2');
 /*Table structure for table `authorization_rule` */
 
 CREATE TABLE `authorization_rule` (
