@@ -22,7 +22,7 @@ You also need to copy the `pub` folder in this repository over the `pub` folder 
 
 Last tested version
 ---------
-Magento 2-alpha101.
+Magento 2-alpha102.
 
 
 Changelog
