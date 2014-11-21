@@ -2600,7 +2600,7 @@ CREATE TABLE `core_resource` (
 
 /*Data for the table `core_resource` */
 
-insert  into `core_resource`(`code`,`version`,`data_version`) values ('adminnotification_setup','2.0.0.0','2.0.0.0'),('api_setup','1.6.0.0','1.6.0.0'),('authorization_setup','1.0.0.0','1.0.0.0'),('backup_setup','1.6.0.0','1.6.0.0'),('bundle_setup','1.6.0.0.2','1.6.0.0.2'),('captcha_setup','1.7.0.0.0','1.7.0.0.0'),('catalogindex_setup','1.6.0.0','1.6.0.0'),('cataloginventory_setup','1.6.0.0.4','1.6.0.0.4'),('catalogrule_setup','1.6.0.4','1.6.0.4'),('catalogsearch_setup','1.6.0.0','1.6.0.0'),('catalogurlrewrite_setup','1.0.0.0','1.0.0.0'),('catalog_setup','1.6.0.0.29','1.6.0.0.29'),('checkoutagreements_setup','1.0.0.0','1.0.0.0'),('checkout_setup','1.6.0.0','1.6.0.0'),('cms_setup','2.0.0.1','2.0.0.1'),('compiler_setup','1.6.0.0','1.6.0.0'),('configurableproduct_setup','1.0.0.0','1.0.0.0'),('configurable_setup','1.0.0.0','1.0.0.0'),('contacts_setup','1.6.0.0','1.6.0.0'),('contact_setup','1.6.0.0','1.6.0.0'),('core_setup','1.6.0.16','1.6.0.16'),('cron_setup','1.6.0.0','1.6.0.0'),('customer_setup','1.6.2.0.5','1.6.2.0.5'),('dataflow_setup','1.6.0.0','1.6.0.0'),('designeditor_setup','1.0.0.3','1.0.0.3'),('dhl_setup','2.0.0.0','2.0.0.0'),('directory_setup','1.6.0.2','1.6.0.2'),('downloadable_setup','1.6.0.0.3','1.6.0.0.3'),('eav_setup','1.6.0.2','1.6.0.2'),('email_setup','1.0.0.0','1.0.0.0'),('fedex_setup','2.0.0.0','2.0.0.0'),('giftmessage_setup','1.6.0.1','1.6.0.1'),('googleanalytics_setup','0.1.0','0.1.0'),('googlecheckout_setup','1.6.0.1','1.6.0.1'),('googleoptimizer_setup','2.0.0.0','2.0.0.0'),('googleshopping_setup','1.6.0.0.1','1.6.0.0.1'),('groupedproduct_setup','0.0.1','0.0.1'),('importexport_setup','1.6.0.4','1.6.0.4'),('indexer_setup','1.0.0.0','1.0.0.0'),('index_setup','1.6.0.0','1.6.0.0'),('integration_setup','1.0.0.3','1.0.0.3'),('log_setup','1.6.0.0','1.6.0.0'),('moneybookers_setup','1.6.0.0','1.6.0.0'),('msrp_setup','1.0.0.0','1.0.0.0'),('newsletter_setup','1.6.0.2','1.6.0.2'),('offlineshipping_setup','2.0.0.0','2.0.0.0'),('ogone_setup','1.6.0.0','1.6.0.0'),('paygate_setup','1.6.0.0','1.6.0.0'),('payment_setup','1.6.0.0','1.6.0.0'),('paypaluk_setup','1.6.0.0','1.6.0.0'),('paypal_setup','1.6.0.4','1.6.0.4'),('persistent_setup','1.0.0.0','1.0.0.0'),('poll_setup','1.6.0.0','1.6.0.0'),('productalert_setup','1.6.0.0','1.6.0.0'),('rating_setup','1.6.0.0','1.6.0.0'),('recurringpayment_setup','1.0.0.0','1.0.0.0'),('reports_setup','1.6.0.0.2','1.6.0.0.2'),('review_setup','1.6.0.0','1.6.0.0'),('salesrule_setup','1.6.0.4','1.6.0.4'),('sales_setup','1.6.0.12','1.6.0.12'),('search_setup','1.6.0.0','1.6.0.0'),('sendfriend_setup','1.6.0.0','1.6.0.0'),('shipping_setup','1.6.0.0','1.6.0.0'),('sitemap_setup','1.6.0.0','1.6.0.0'),('store_setup','2.0.0.0','2.0.0.0'),('tag_setup','1.6.0.0','1.6.0.0'),('tax_setup','1.6.0.7','1.6.0.7'),('translation_setup','1.0.0.1','1.0.0.1'),('urlrewrite_setup','1.0.0.0','1.0.0.0'),('usa_setup','1.6.0.1','1.6.0.1'),('user_setup','1.6.1.6','1.6.1.6'),('usps_setup','2.0.0.0','2.0.0.0'),('webapi_setup','1.0.0.4','1.0.0.4'),('weee_setup','1.6.0.0','1.6.0.0'),('widget_setup','1.6.0.2','1.6.0.2'),('wishlist_setup','1.6.0.0','1.6.0.0'),('xmlconnect_setup','1.6.0.0','1.6.0.0');
+insert  into `core_resource`(`code`,`version`,`data_version`) values ('adminnotification_setup','2.0.0.0','2.0.0.0'),('api_setup','1.6.0.0','1.6.0.0'),('authorization_setup','1.0.0.0','1.0.0.0'),('backup_setup','1.6.0.0','1.6.0.0'),('bundle_setup','1.6.0.0.2','1.6.0.0.2'),('captcha_setup','1.7.0.0.0','1.7.0.0.0'),('catalogindex_setup','1.6.0.0','1.6.0.0'),('cataloginventory_setup','1.6.0.0.4','1.6.0.0.4'),('catalogrule_setup','1.6.0.4','1.6.0.4'),('catalogsearch_setup','1.6.0.0','1.6.0.0'),('catalogurlrewrite_setup','1.0.0.0','1.0.0.0'),('catalog_setup','1.6.0.0.29','1.6.0.0.29'),('checkoutagreements_setup','1.0.0.0','1.0.0.0'),('checkout_setup','1.6.0.0','1.6.0.0'),('cms_setup','2.0.0.1','2.0.0.1'),('compiler_setup','1.6.0.0','1.6.0.0'),('configurableproduct_setup','1.0.0.0','1.0.0.0'),('configurable_setup','1.0.0.0','1.0.0.0'),('contacts_setup','1.6.0.0','1.6.0.0'),('contact_setup','1.6.0.0','1.6.0.0'),('core_setup','1.6.0.16','1.6.0.16'),('cron_setup','1.6.0.0','1.6.0.0'),('customer_setup','1.6.2.0.5','1.6.2.0.5'),('dataflow_setup','1.6.0.0','1.6.0.0'),('designeditor_setup','1.0.0.3','1.0.0.3'),('dhl_setup','2.0.0','2.0.0'),('directory_setup','1.6.0.2','1.6.0.2'),('downloadable_setup','1.6.0.0.3','1.6.0.0.3'),('eav_setup','1.6.0.2','1.6.0.2'),('email_setup','1.0.0.0','1.0.0.0'),('fedex_setup','2.0.0','2.0.0'),('giftmessage_setup','1.6.0.1','1.6.0.1'),('googleanalytics_setup','0.1.0','0.1.0'),('googlecheckout_setup','1.6.0.1','1.6.0.1'),('googleoptimizer_setup','2.0.0.0','2.0.0.0'),('googleshopping_setup','1.6.0.0.1','1.6.0.0.1'),('groupedproduct_setup','0.0.1','0.0.1'),('importexport_setup','1.6.0.4','1.6.0.4'),('indexer_setup','1.0.0.0','1.0.0.0'),('index_setup','1.6.0.0','1.6.0.0'),('integration_setup','1.0.0.3','1.0.0.3'),('log_setup','1.6.0.0','1.6.0.0'),('moneybookers_setup','1.6.0.0','1.6.0.0'),('msrp_setup','1.0.0.0','1.0.0.0'),('newsletter_setup','1.6.0.2','1.6.0.2'),('offlineshipping_setup','2.0.0','2.0.0'),('ogone_setup','1.6.0.0','1.6.0.0'),('paygate_setup','1.6.0.0','1.6.0.0'),('payment_setup','1.6.0.0','1.6.0.0'),('paypaluk_setup','1.6.0.0','1.6.0.0'),('paypal_setup','1.6.0.4','1.6.0.4'),('persistent_setup','1.0.0.0','1.0.0.0'),('poll_setup','1.6.0.0','1.6.0.0'),('productalert_setup','1.6.0.0','1.6.0.0'),('rating_setup','1.6.0.0','1.6.0.0'),('recurringpayment_setup','1.0.0.0','1.0.0.0'),('reports_setup','1.6.0.0.2','1.6.0.0.2'),('review_setup','1.6.0.0','1.6.0.0'),('salesrule_setup','1.6.0.4','1.6.0.4'),('sales_setup','1.6.0.12','1.6.0.12'),('search_setup','1.6.0.0','1.6.0.0'),('sendfriend_setup','1.6.0.0','1.6.0.0'),('shipping_setup','1.6.0.0','1.6.0.0'),('sitemap_setup','1.6.0.0','1.6.0.0'),('store_setup','2.0.0.0','2.0.0.0'),('tag_setup','1.6.0.0','1.6.0.0'),('tax_setup','1.6.0.7','1.6.0.7'),('translation_setup','1.0.0.1','1.0.0.1'),('urlrewrite_setup','1.0.0.0','1.0.0.0'),('usa_setup','1.6.0.1','1.6.0.1'),('user_setup','1.6.1.6','1.6.1.6'),('usps_setup','2.0.0','2.0.0'),('webapi_setup','1.0.0.4','1.0.0.4'),('weee_setup','1.6.0.0','1.6.0.0'),('widget_setup','1.6.0.2','1.6.0.2'),('wishlist_setup','1.6.0.0','1.6.0.0'),('xmlconnect_setup','1.6.0.0','1.6.0.0');
 
 /*Table structure for table `core_session` */
 
@@ -3122,11 +3122,12 @@ insert  into `customer_group`(`customer_group_id`,`customer_group_code`,`tax_cla
 
 /*Table structure for table `customer_visitor` */
 
-CREATE TABLE `customer_visitor` (
-  `visitor_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Visitor ID',
-  `session_id` varchar(64) DEFAULT NULL COMMENT 'Session ID',
-  PRIMARY KEY (`visitor_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8 COMMENT='Visitor Table';
+CREATE TABLE `customer_visitor` (                                                                                      
+	`visitor_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Visitor ID',                                       
+	`session_id` varchar(64) DEFAULT NULL COMMENT 'Session ID',                                                          
+	`last_visit_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Last Visit Time',  
+	PRIMARY KEY (`visitor_id`)                                                                                           
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Visitor Table';
 
 /*Data for the table `customer_visitor` */
 
@@ -3379,7 +3380,7 @@ CREATE TABLE `downloadable_link_purchased` (
   KEY `IDX_DOWNLOADABLE_LINK_PURCHASED_ORDER_ITEM_ID` (`order_item_id`),
   KEY `IDX_DOWNLOADABLE_LINK_PURCHASED_CUSTOMER_ID` (`customer_id`),
   CONSTRAINT `FK_DL_LNK_PURCHASED_CSTR_ID_CSTR_ENTT_ENTT_ID` FOREIGN KEY (`customer_id`) REFERENCES `customer_entity` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE,
-  CONSTRAINT `FK_DL_LNK_PURCHASED_ORDER_ID_SALES_FLAT_ORDER_ENTT_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  CONSTRAINT `FK_DL_LNK_PURCHASED_ORDER_ID_SALES_ORDER_ENTT_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Downloadable Link Purchased Table';
 
 /*Data for the table `downloadable_link_purchased` */
@@ -3408,7 +3409,7 @@ CREATE TABLE `downloadable_link_purchased_item` (
   KEY `IDX_DOWNLOADABLE_LINK_PURCHASED_ITEM_ORDER_ITEM_ID` (`order_item_id`),
   KEY `IDX_DOWNLOADABLE_LINK_PURCHASED_ITEM_PURCHASED_ID` (`purchased_id`),
   CONSTRAINT `FK_46CC8E252307CE62F00A8F1887512A39` FOREIGN KEY (`purchased_id`) REFERENCES `downloadable_link_purchased` (`purchased_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_B219BF25756700DEE44550B21220ECCE` FOREIGN KEY (`order_item_id`) REFERENCES `sales_flat_order_item` (`item_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  CONSTRAINT `FK_B219BF25756700DEE44550B21220ECCE` FOREIGN KEY (`order_item_id`) REFERENCES `sales_order_item` (`item_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Downloadable Link Purchased Item Table';
 
 /*Data for the table `downloadable_link_purchased_item` */
@@ -3761,7 +3762,7 @@ CREATE TABLE `eav_entity_type` (
 
 /*Data for the table `eav_entity_type` */
 
-insert  into `eav_entity_type`(`entity_type_id`,`entity_type_code`,`entity_model`,`attribute_model`,`entity_table`,`value_table_prefix`,`entity_id_field`,`is_data_sharing`,`data_sharing_key`,`default_attribute_set_id`,`increment_model`,`increment_per_store`,`increment_pad_length`,`increment_pad_char`,`additional_attribute_table`,`entity_attribute_collection`) values (1,'customer','Magento\\Customer\\Model\\Resource\\Customer','Magento\\Customer\\Model\\Attribute','customer_entity',NULL,NULL,1,'default',1,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',0,8,'0','customer_eav_attribute','Magento\\Customer\\Model\\Resource\\Attribute\\Collection'),(2,'customer_address','Magento\\Customer\\Model\\Resource\\Address','Magento\\Customer\\Model\\Attribute','customer_address_entity',NULL,NULL,1,'default',2,NULL,0,8,'0','customer_eav_attribute','Magento\\Customer\\Model\\Resource\\Address\\Attribute\\Collection'),(4,'order','Magento\\Sales\\Model\\Resource\\Order',NULL,'sales_flat_order',NULL,NULL,1,'default',18,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(9,'catalog_category','Magento\\Catalog\\Model\\Resource\\Category','Magento\\Catalog\\Model\\Resource\\Eav\\Attribute','catalog_category_entity',NULL,NULL,0,'default',12,NULL,0,8,'0','catalog_eav_attribute','Magento\\Catalog\\Model\\Resource\\Category\\Attribute\\Collection'),(10,'catalog_product','Magento\\Catalog\\Model\\Resource\\Product','Magento\\Catalog\\Model\\Resource\\Eav\\Attribute','catalog_product_entity',NULL,NULL,0,'default',9,NULL,0,8,'0','catalog_eav_attribute','Magento\\Catalog\\Model\\Resource\\Product\\Attribute\\Collection'),(18,'invoice','Magento\\Sales\\Model\\Resource\\Order\\Invoice',NULL,'sales_flat_invoice',NULL,NULL,1,'default',30,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(24,'shipment','Magento\\Sales\\Model\\Resource\\Order\\Shipment',NULL,'sales_flat_shipment',NULL,NULL,1,'default',51,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(28,'creditmemo','Magento\\Sales\\Model\\Resource\\Order\\Creditmemo',NULL,'sales_flat_creditmemo',NULL,NULL,1,'default',55,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL);
+insert  into `eav_entity_type`(`entity_type_id`,`entity_type_code`,`entity_model`,`attribute_model`,`entity_table`,`value_table_prefix`,`entity_id_field`,`is_data_sharing`,`data_sharing_key`,`default_attribute_set_id`,`increment_model`,`increment_per_store`,`increment_pad_length`,`increment_pad_char`,`additional_attribute_table`,`entity_attribute_collection`) values (1,'customer','Magento\\Customer\\Model\\Resource\\Customer','Magento\\Customer\\Model\\Attribute','customer_entity',NULL,NULL,1,'default',1,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',0,8,'0','customer_eav_attribute','Magento\\Customer\\Model\\Resource\\Attribute\\Collection'),(2,'customer_address','Magento\\Customer\\Model\\Resource\\Address','Magento\\Customer\\Model\\Attribute','customer_address_entity',NULL,NULL,1,'default',2,NULL,0,8,'0','customer_eav_attribute','Magento\\Customer\\Model\\Resource\\Address\\Attribute\\Collection'),(4,'order','Magento\\Sales\\Model\\Resource\\Order',NULL,'sales_order',NULL,NULL,1,'default',18,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(9,'catalog_category','Magento\\Catalog\\Model\\Resource\\Category','Magento\\Catalog\\Model\\Resource\\Eav\\Attribute','catalog_category_entity',NULL,NULL,0,'default',12,NULL,0,8,'0','catalog_eav_attribute','Magento\\Catalog\\Model\\Resource\\Category\\Attribute\\Collection'),(10,'catalog_product','Magento\\Catalog\\Model\\Resource\\Product','Magento\\Catalog\\Model\\Resource\\Eav\\Attribute','catalog_product_entity',NULL,NULL,0,'default',9,NULL,0,8,'0','catalog_eav_attribute','Magento\\Catalog\\Model\\Resource\\Product\\Attribute\\Collection'),(18,'invoice','Magento\\Sales\\Model\\Resource\\Order\\Invoice',NULL,'sales_invoice',NULL,NULL,1,'default',30,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(24,'shipment','Magento\\Sales\\Model\\Resource\\Order\\Shipment',NULL,'sales_shipment',NULL,NULL,1,'default',51,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL),(28,'creditmemo','Magento\\Sales\\Model\\Resource\\Order\\Creditmemo',NULL,'sales_creditmemo',NULL,NULL,1,'default',55,'Magento\\Eav\\Model\\Entity\\Increment\\Numeric',1,8,'0',NULL,NULL);
 
 /*Table structure for table `eav_entity_varchar` */
 
@@ -4421,7 +4422,7 @@ CREATE TABLE `paypal_billing_agreement_order` (
   PRIMARY KEY (`agreement_id`,`order_id`),
   KEY `IDX_PAYPAL_BILLING_AGREEMENT_ORDER_ORDER_ID` (`order_id`),
   CONSTRAINT `FK_PAYPAL_BILLING_AGRT_ORDER_AGRT_ID_PAYPAL_BILLING_AGRT_AGRT_ID` FOREIGN KEY (`agreement_id`) REFERENCES `paypal_billing_agreement` (`agreement_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_PAYPAL_BILLING_AGRT_ORDER_ORDER_ID_SALES_FLAT_ORDER_ENTT_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `FK_PAYPAL_BILLING_AGRT_ORDER_ORDER_ID_SALES_ORDER_ENTT_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Billing Agreement Order';
 
 /*Data for the table `paypal_billing_agreement_order` */
@@ -4740,7 +4741,7 @@ CREATE TABLE `recurring_payment_order` (
   UNIQUE KEY `UNQ_RECURRING_PAYMENT_ORDER_PAYMENT_ID_ORDER_ID` (`payment_id`,`order_id`),
   KEY `IDX_RECURRING_PAYMENT_ORDER_ORDER_ID` (`order_id`),
   CONSTRAINT `FK_FBE10CDDE7C121E42B35344D030C68BB` FOREIGN KEY (`payment_id`) REFERENCES `recurring_payment` (`payment_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_RECURRING_PAYMENT_ORDER_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `FK_RECURRING_PAYMENT_ORDER_ORDER_ID_SALES_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Recurring Payment Order';
 
 /*Data for the table `recurring_payment_order` */
@@ -5054,9 +5055,9 @@ CREATE TABLE `sales_bestsellers_aggregated_yearly` (
 
 /*Data for the table `sales_bestsellers_aggregated_yearly` */
 
-/*Table structure for table `sales_flat_creditmemo` */
+/*Table structure for table `sales_creditmemo` */
 
-CREATE TABLE `sales_flat_creditmemo` (
+CREATE TABLE `sales_creditmemo` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `adjustment_positive` decimal(12,4) DEFAULT NULL COMMENT 'Adjustment Positive',
@@ -5107,21 +5108,21 @@ CREATE TABLE `sales_flat_creditmemo` (
   `base_shipping_incl_tax` decimal(12,4) DEFAULT NULL COMMENT 'Base Shipping Incl Tax',
   `discount_description` varchar(255) DEFAULT NULL COMMENT 'Discount Description',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_CREDITMEMO_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_CREDITMEMO_STATUS` (`creditmemo_status`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_STATE` (`state`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_CREATED_AT` (`created_at`),
-  CONSTRAINT `FK_SALES_FLAT_CREDITMEMO_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_CREDITMEMO_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES_CREDITMEMO_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES_CREDITMEMO_STORE_ID` (`store_id`),
+  KEY `IDX_SALES_CREDITMEMO_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES_CREDITMEMO_CREDITMEMO_STATUS` (`creditmemo_status`),
+  KEY `IDX_SALES_CREDITMEMO_STATE` (`state`),
+  KEY `IDX_SALES_CREDITMEMO_CREATED_AT` (`created_at`),
+  CONSTRAINT `FK_SALES_CREDITMEMO_ORDER_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES_CREDITMEMO_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Creditmemo';
 
-/*Data for the table `sales_flat_creditmemo` */
+/*Data for the table `sales_creditmemo` */
 
-/*Table structure for table `sales_flat_creditmemo_comment` */
+/*Table structure for table `sales_creditmemo_comment` */
 
-CREATE TABLE `sales_flat_creditmemo_comment` (
+CREATE TABLE `sales_creditmemo_comment` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `is_customer_notified` int(11) DEFAULT NULL COMMENT 'Is Customer Notified',
@@ -5129,16 +5130,16 @@ CREATE TABLE `sales_flat_creditmemo_comment` (
   `comment` text COMMENT 'Comment',
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_COMMENT_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_COMMENT_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_B0FCB0B5467075BE63D474F2CD5F7804` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES_CREDITMEMO_COMMENT_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES_CREDITMEMO_COMMENT_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_B0FCB0B5467075BE63D474F2CD5F7804` FOREIGN KEY (`parent_id`) REFERENCES `sales_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Creditmemo Comment';
 
-/*Data for the table `sales_flat_creditmemo_comment` */
+/*Data for the table `sales_creditmemo_comment` */
 
-/*Table structure for table `sales_flat_creditmemo_grid` */
+/*Table structure for table `sales_creditmemo_grid` */
 
-CREATE TABLE `sales_flat_creditmemo_grid` (
+CREATE TABLE `sales_creditmemo_grid` (
   `entity_id` int(10) unsigned NOT NULL COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `store_to_order_rate` decimal(12,4) DEFAULT NULL COMMENT 'Store To Order Rate',
@@ -5161,26 +5162,26 @@ CREATE TABLE `sales_flat_creditmemo_grid` (
   `order_created_at` timestamp NULL DEFAULT NULL COMMENT 'Order Created At',
   `billing_name` varchar(255) DEFAULT NULL COMMENT 'Billing Name',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_CREDITMEMO_GRID_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_GRAND_TOTAL` (`grand_total`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_BASE_GRAND_TOTAL` (`base_grand_total`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_CREDITMEMO_STATUS` (`creditmemo_status`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_STATE` (`state`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_ORDER_CREATED_AT` (`order_created_at`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_GRID_BILLING_NAME` (`billing_name`),
-  CONSTRAINT `FK_78C711B225167A11CC077B03D1C8E1CC` FOREIGN KEY (`entity_id`) REFERENCES `sales_flat_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_CREDITMEMO_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__CREDITMEMO_GRID_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_GRAND_TOTAL` (`grand_total`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_BASE_GRAND_TOTAL` (`base_grand_total`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_CREDITMEMO_STATUS` (`creditmemo_status`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_STATE` (`state`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_ORDER_CREATED_AT` (`order_created_at`),
+  KEY `IDX_SALES__CREDITMEMO_GRID_BILLING_NAME` (`billing_name`),
+  CONSTRAINT `FK_78C711B225167A11CC077B03D1C8E1CC` FOREIGN KEY (`entity_id`) REFERENCES `sales_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__CREDITMEMO_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Creditmemo Grid';
 
-/*Data for the table `sales_flat_creditmemo_grid` */
+/*Data for the table `sales_creditmemo_grid` */
 
-/*Table structure for table `sales_flat_creditmemo_item` */
+/*Table structure for table `sales_creditmemo_item` */
 
-CREATE TABLE `sales_flat_creditmemo_item` (
+CREATE TABLE `sales_creditmemo_item` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `weee_tax_applied_row_amount` decimal(12,4) DEFAULT NULL COMMENT 'Weee Tax Applied Row Amount',
@@ -5215,15 +5216,15 @@ CREATE TABLE `sales_flat_creditmemo_item` (
   `hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Hidden Tax Amount',
   `base_hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Base Hidden Tax Amount',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_CREDITMEMO_ITEM_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_306DAC836C699F0B5E13BE486557AC8A` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__CREDITMEMO_ITEM_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_306DAC836C699F0B5E13BE486557AC8A` FOREIGN KEY (`parent_id`) REFERENCES `sales_creditmemo` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Creditmemo Item';
 
-/*Data for the table `sales_flat_creditmemo_item` */
+/*Data for the table `sales_creditmemo_item` */
 
-/*Table structure for table `sales_flat_invoice` */
+/*Table structure for table `sales_invoice` */
 
-CREATE TABLE `sales_flat_invoice` (
+CREATE TABLE `sales_invoice` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `base_grand_total` decimal(12,4) DEFAULT NULL COMMENT 'Base Grand Total',
@@ -5277,21 +5278,21 @@ CREATE TABLE `sales_flat_invoice` (
   `base_total_refunded` decimal(12,4) DEFAULT NULL COMMENT 'Base Total Refunded',
   `discount_description` varchar(255) DEFAULT NULL COMMENT 'Discount Description',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_INVOICE_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRAND_TOTAL` (`grand_total`),
-  KEY `IDX_SALES_FLAT_INVOICE_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_STATE` (`state`),
-  KEY `IDX_SALES_FLAT_INVOICE_CREATED_AT` (`created_at`),
-  CONSTRAINT `FK_SALES_FLAT_INVOICE_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_INVOICE_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__INVOICE_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__INVOICE_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__INVOICE_GRAND_TOTAL` (`grand_total`),
+  KEY `IDX_SALES__INVOICE_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__INVOICE_STATE` (`state`),
+  KEY `IDX_SALES__INVOICE_CREATED_AT` (`created_at`),
+  CONSTRAINT `FK_SALES__INVOICE_ORDER_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__INVOICE_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Invoice';
 
-/*Data for the table `sales_flat_invoice` */
+/*Data for the table `sales_invoice` */
 
-/*Table structure for table `sales_flat_invoice_comment` */
+/*Table structure for table `sales_invoice_comment` */
 
-CREATE TABLE `sales_flat_invoice_comment` (
+CREATE TABLE `sales_invoice_comment` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `is_customer_notified` smallint(5) unsigned DEFAULT NULL COMMENT 'Is Customer Notified',
@@ -5299,16 +5300,16 @@ CREATE TABLE `sales_flat_invoice_comment` (
   `comment` text COMMENT 'Comment',
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_COMMENT_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_INVOICE_COMMENT_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_5C4B36BBE5231A76AB8018B281ED50BC` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__INVOICE_COMMENT_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__INVOICE_COMMENT_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_5C4B36BBE5231A76AB8018B281ED50BC` FOREIGN KEY (`parent_id`) REFERENCES `sales_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Invoice Comment';
 
-/*Data for the table `sales_flat_invoice_comment` */
+/*Data for the table `sales_invoice_comment` */
 
-/*Table structure for table `sales_flat_invoice_grid` */
+/*Table structure for table `sales_invoice_grid` */
 
-CREATE TABLE `sales_flat_invoice_grid` (
+CREATE TABLE `sales_invoice_grid` (
   `entity_id` int(10) unsigned NOT NULL COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `base_grand_total` decimal(12,4) DEFAULT NULL COMMENT 'Base Grand Total',
@@ -5325,24 +5326,24 @@ CREATE TABLE `sales_flat_invoice_grid` (
   `order_created_at` timestamp NULL DEFAULT NULL COMMENT 'Order Created At',
   `billing_name` varchar(255) DEFAULT NULL COMMENT 'Billing Name',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_INVOICE_GRID_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_GRAND_TOTAL` (`grand_total`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_STATE` (`state`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_ORDER_CREATED_AT` (`order_created_at`),
-  KEY `IDX_SALES_FLAT_INVOICE_GRID_BILLING_NAME` (`billing_name`),
-  CONSTRAINT `FK_SALES_FLAT_INVOICE_GRID_ENTT_ID_SALES_FLAT_INVOICE_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_flat_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_INVOICE_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__INVOICE_GRID_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__INVOICE_GRID_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__INVOICE_GRID_GRAND_TOTAL` (`grand_total`),
+  KEY `IDX_SALES__INVOICE_GRID_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__INVOICE_GRID_STATE` (`state`),
+  KEY `IDX_SALES__INVOICE_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
+  KEY `IDX_SALES__INVOICE_GRID_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__INVOICE_GRID_ORDER_CREATED_AT` (`order_created_at`),
+  KEY `IDX_SALES__INVOICE_GRID_BILLING_NAME` (`billing_name`),
+  CONSTRAINT `FK_SALES__INVOICE_GRID_ENTT_ID_SALES__INVOICE_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__INVOICE_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Invoice Grid';
 
-/*Data for the table `sales_flat_invoice_grid` */
+/*Data for the table `sales_invoice_grid` */
 
-/*Table structure for table `sales_flat_invoice_item` */
+/*Table structure for table `sales_invoice_item` */
 
-CREATE TABLE `sales_flat_invoice_item` (
+CREATE TABLE `sales_invoice_item` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `base_price` decimal(12,4) DEFAULT NULL COMMENT 'Base Price',
@@ -5378,15 +5379,15 @@ CREATE TABLE `sales_flat_invoice_item` (
   `hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Hidden Tax Amount',
   `base_hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Base Hidden Tax Amount',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_INVOICE_ITEM_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_SALES_FLAT_INVOICE_ITEM_PARENT_ID_SALES_FLAT_INVOICE_ENTT_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__INVOICE_ITEM_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_SALES__INVOICE_ITEM_PARENT_ID_SALES__INVOICE_ENTT_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_invoice` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Invoice Item';
 
-/*Data for the table `sales_flat_invoice_item` */
+/*Data for the table `sales_invoice_item` */
 
-/*Table structure for table `sales_flat_order` */
+/*Table structure for table `sales_order` */
 
-CREATE TABLE `sales_flat_order` (
+CREATE TABLE `sales_order` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `state` varchar(32) DEFAULT NULL COMMENT 'State',
   `status` varchar(32) DEFAULT NULL COMMENT 'Status',
@@ -5535,24 +5536,24 @@ CREATE TABLE `sales_flat_order` (
   `base_shipping_incl_tax` decimal(12,4) DEFAULT NULL COMMENT 'Base Shipping Incl Tax',
   `coupon_rule_name` varchar(255) DEFAULT NULL COMMENT 'Coupon Sales Rule Name',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_ORDER_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_ORDER_STATUS` (`status`),
-  KEY `IDX_SALES_FLAT_ORDER_STATE` (`state`),
-  KEY `IDX_SALES_FLAT_ORDER_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_ORDER_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_ORDER_CUSTOMER_ID` (`customer_id`),
-  KEY `IDX_SALES_FLAT_ORDER_EXT_ORDER_ID` (`ext_order_id`),
-  KEY `IDX_SALES_FLAT_ORDER_QUOTE_ID` (`quote_id`),
-  KEY `IDX_SALES_FLAT_ORDER_UPDATED_AT` (`updated_at`),
-  CONSTRAINT `FK_SALES_FLAT_ORDER_CUSTOMER_ID_CUSTOMER_ENTITY_ENTITY_ID` FOREIGN KEY (`customer_id`) REFERENCES `customer_entity` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_ORDER_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__ORDER_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__ORDER_STATUS` (`status`),
+  KEY `IDX_SALES__ORDER_STATE` (`state`),
+  KEY `IDX_SALES__ORDER_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__ORDER_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__ORDER_CUSTOMER_ID` (`customer_id`),
+  KEY `IDX_SALES__ORDER_EXT_ORDER_ID` (`ext_order_id`),
+  KEY `IDX_SALES__ORDER_QUOTE_ID` (`quote_id`),
+  KEY `IDX_SALES__ORDER_UPDATED_AT` (`updated_at`),
+  CONSTRAINT `FK_SALES__ORDER_CUSTOMER_ID_CUSTOMER_ENTITY_ENTITY_ID` FOREIGN KEY (`customer_id`) REFERENCES `customer_entity` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__ORDER_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order';
 
-/*Data for the table `sales_flat_order` */
+/*Data for the table `sales_order` */
 
-/*Table structure for table `sales_flat_order_address` */
+/*Table structure for table `sales_order_address` */
 
-CREATE TABLE `sales_flat_order_address` (
+CREATE TABLE `sales_order_address` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned DEFAULT NULL COMMENT 'Parent Id',
   `customer_address_id` int(11) DEFAULT NULL COMMENT 'Customer Address Id',
@@ -5583,15 +5584,15 @@ CREATE TABLE `sales_flat_order_address` (
   `vat_request_date` text COMMENT 'Vat Request Date',
   `vat_request_success` smallint(6) DEFAULT NULL COMMENT 'Vat Request Success',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_ORDER_ADDRESS_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_SALES_FLAT_ORDER_ADDRESS_PARENT_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__ORDER_ADDRESS_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_SALES__ORDER_ADDRESS_PARENT_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order Address';
 
-/*Data for the table `sales_flat_order_address` */
+/*Data for the table `sales_order_address` */
 
-/*Table structure for table `sales_flat_order_grid` */
+/*Table structure for table `sales_order_grid` */
 
-CREATE TABLE `sales_flat_order_grid` (
+CREATE TABLE `sales_order_grid` (
   `entity_id` int(10) unsigned NOT NULL COMMENT 'Entity Id',
   `status` varchar(32) DEFAULT NULL COMMENT 'Status',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
@@ -5609,28 +5610,28 @@ CREATE TABLE `sales_flat_order_grid` (
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   `updated_at` timestamp NULL DEFAULT NULL COMMENT 'Updated At',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_ORDER_GRID_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_STATUS` (`status`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_BASE_GRAND_TOTAL` (`base_grand_total`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_BASE_TOTAL_PAID` (`base_total_paid`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_GRAND_TOTAL` (`grand_total`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_TOTAL_PAID` (`total_paid`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_SHIPPING_NAME` (`shipping_name`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_BILLING_NAME` (`billing_name`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_CUSTOMER_ID` (`customer_id`),
-  KEY `IDX_SALES_FLAT_ORDER_GRID_UPDATED_AT` (`updated_at`),
-  CONSTRAINT `FK_SALES_FLAT_ORDER_GRID_CUSTOMER_ID_CUSTOMER_ENTITY_ENTITY_ID` FOREIGN KEY (`customer_id`) REFERENCES `customer_entity` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_ORDER_GRID_ENTITY_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_ORDER_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__ORDER_GRID_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__ORDER_GRID_STATUS` (`status`),
+  KEY `IDX_SALES__ORDER_GRID_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__ORDER_GRID_BASE_GRAND_TOTAL` (`base_grand_total`),
+  KEY `IDX_SALES__ORDER_GRID_BASE_TOTAL_PAID` (`base_total_paid`),
+  KEY `IDX_SALES__ORDER_GRID_GRAND_TOTAL` (`grand_total`),
+  KEY `IDX_SALES__ORDER_GRID_TOTAL_PAID` (`total_paid`),
+  KEY `IDX_SALES__ORDER_GRID_SHIPPING_NAME` (`shipping_name`),
+  KEY `IDX_SALES__ORDER_GRID_BILLING_NAME` (`billing_name`),
+  KEY `IDX_SALES__ORDER_GRID_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__ORDER_GRID_CUSTOMER_ID` (`customer_id`),
+  KEY `IDX_SALES__ORDER_GRID_UPDATED_AT` (`updated_at`),
+  CONSTRAINT `FK_SALES__ORDER_GRID_CUSTOMER_ID_CUSTOMER_ENTITY_ENTITY_ID` FOREIGN KEY (`customer_id`) REFERENCES `customer_entity` (`entity_id`) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__ORDER_GRID_ENTITY_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__ORDER_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order Grid';
 
-/*Data for the table `sales_flat_order_grid` */
+/*Data for the table `sales_order_grid` */
 
-/*Table structure for table `sales_flat_order_item` */
+/*Table structure for table `sales_order_item` */
 
-CREATE TABLE `sales_flat_order_item` (
+CREATE TABLE `sales_order_item` (
   `item_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Item Id',
   `order_id` int(10) unsigned NOT NULL COMMENT 'Order Id',
   `parent_item_id` int(10) unsigned DEFAULT NULL COMMENT 'Parent Item Id',
@@ -5713,17 +5714,17 @@ CREATE TABLE `sales_flat_order_item` (
   `discount_refunded` decimal(12,4) DEFAULT NULL COMMENT 'Discount Refunded',
   `base_discount_refunded` decimal(12,4) DEFAULT NULL COMMENT 'Base Discount Refunded',
   PRIMARY KEY (`item_id`),
-  KEY `IDX_SALES_FLAT_ORDER_ITEM_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_ORDER_ITEM_STORE_ID` (`store_id`),
-  CONSTRAINT `FK_SALES_FLAT_ORDER_ITEM_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_ORDER_ITEM_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  KEY `IDX_SALES__ORDER_ITEM_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__ORDER_ITEM_STORE_ID` (`store_id`),
+  CONSTRAINT `FK_SALES__ORDER_ITEM_ORDER_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__ORDER_ITEM_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order Item';
 
-/*Data for the table `sales_flat_order_item` */
+/*Data for the table `sales_order_item` */
 
-/*Table structure for table `sales_flat_order_payment` */
+/*Table structure for table `sales_order_payment` */
 
-CREATE TABLE `sales_flat_order_payment` (
+CREATE TABLE `sales_order_payment` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `base_shipping_captured` decimal(12,4) DEFAULT NULL COMMENT 'Base Shipping Captured',
@@ -5790,15 +5791,15 @@ CREATE TABLE `sales_flat_order_payment` (
   `cc_raw_response` text,
   `customer_payment_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_ORDER_PAYMENT_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_SALES_FLAT_ORDER_PAYMENT_PARENT_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__ORDER_PAYMENT_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_SALES__ORDER_PAYMENT_PARENT_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`parent_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order Payment';
 
-/*Data for the table `sales_flat_order_payment` */
+/*Data for the table `sales_order_payment` */
 
-/*Table structure for table `sales_flat_order_status_history` */
+/*Table structure for table `sales_order_status_history` */
 
-CREATE TABLE `sales_flat_order_status_history` (
+CREATE TABLE `sales_order_status_history` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `is_customer_notified` int(11) DEFAULT NULL COMMENT 'Is Customer Notified',
@@ -5808,16 +5809,16 @@ CREATE TABLE `sales_flat_order_status_history` (
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   `entity_name` varchar(32) DEFAULT NULL COMMENT 'Shows what entity history is bind to.',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_ORDER_STATUS_HISTORY_PARENT_ID` (`parent_id`),
-  KEY `IDX_SALES_FLAT_ORDER_STATUS_HISTORY_CREATED_AT` (`created_at`),
-  CONSTRAINT `FK_CE7C71E74CB74DDACED337CEE6753D5E` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__ORDER_STATUS_HISTORY_PARENT_ID` (`parent_id`),
+  KEY `IDX_SALES__ORDER_STATUS_HISTORY_CREATED_AT` (`created_at`),
+  CONSTRAINT `FK_CE7C71E74CB74DDACED337CEE6753D5E` FOREIGN KEY (`parent_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Order Status History';
 
-/*Data for the table `sales_flat_order_status_history` */
+/*Data for the table `sales_order_status_history` */
 
-/*Table structure for table `sales_flat_quote` */
+/*Table structure for table `sales_quote` */
 
-CREATE TABLE `sales_flat_quote` (
+CREATE TABLE `sales_quote` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned NOT NULL COMMENT 'Store Id',
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Created At',
@@ -5870,16 +5871,16 @@ CREATE TABLE `sales_flat_quote` (
   `customer_gender` varchar(255) DEFAULT NULL COMMENT 'Customer Gender',
   `is_persistent` smallint(5) unsigned DEFAULT '0' COMMENT 'Is Quote Persistent',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_CUSTOMER_ID_STORE_ID_IS_ACTIVE` (`customer_id`,`store_id`,`is_active`),
-  KEY `IDX_SALES_FLAT_QUOTE_STORE_ID` (`store_id`),
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_CUSTOMER_ID_STORE_ID_IS_ACTIVE` (`customer_id`,`store_id`,`is_active`),
+  KEY `IDX_SALES__QUOTE_STORE_ID` (`store_id`),
+  CONSTRAINT `FK_SALES__QUOTE_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote';
 
-/*Data for the table `sales_flat_quote` */
+/*Data for the table `sales_quote` */
 
-/*Table structure for table `sales_flat_quote_address` */
+/*Table structure for table `sales_quote_address` */
 
-CREATE TABLE `sales_flat_quote_address` (
+CREATE TABLE `sales_quote_address` (
   `address_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Address Id',
   `quote_id` int(10) unsigned NOT NULL COMMENT 'Quote Id',
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Created At',
@@ -5943,15 +5944,15 @@ CREATE TABLE `sales_flat_quote_address` (
   `vat_request_date` text COMMENT 'Vat Request Date',
   `vat_request_success` smallint(6) DEFAULT NULL COMMENT 'Vat Request Success',
   PRIMARY KEY (`address_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ADDRESS_QUOTE_ID` (`quote_id`),
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_ADDRESS_QUOTE_ID_SALES_FLAT_QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_flat_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_ADDRESS_QUOTE_ID` (`quote_id`),
+  CONSTRAINT `FK_SALES__QUOTE_ADDRESS_QUOTE_ID_SALES__QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Address';
 
-/*Data for the table `sales_flat_quote_address` */
+/*Data for the table `sales_quote_address` */
 
-/*Table structure for table `sales_flat_quote_address_item` */
+/*Table structure for table `sales_quote_address_item` */
 
-CREATE TABLE `sales_flat_quote_address_item` (
+CREATE TABLE `sales_quote_address_item` (
   `address_item_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Address Item Id',
   `parent_item_id` int(10) unsigned DEFAULT NULL COMMENT 'Parent Item Id',
   `quote_address_id` int(10) unsigned NOT NULL COMMENT 'Quote Address Id',
@@ -5993,19 +5994,19 @@ CREATE TABLE `sales_flat_quote_address_item` (
   `hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Hidden Tax Amount',
   `base_hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Base Hidden Tax Amount',
   PRIMARY KEY (`address_item_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ADDRESS_ITEM_QUOTE_ADDRESS_ID` (`quote_address_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ADDRESS_ITEM_PARENT_ITEM_ID` (`parent_item_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ADDRESS_ITEM_QUOTE_ITEM_ID` (`quote_item_id`),
-  CONSTRAINT `FK_2EF8E28181D666D94D4E30DC2B0F80BF` FOREIGN KEY (`quote_item_id`) REFERENCES `sales_flat_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_A345FC758F20C314169CE27DCE53477F` FOREIGN KEY (`parent_item_id`) REFERENCES `sales_flat_quote_address_item` (`address_item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_B521389746C00700D1B2B76EBBE53854` FOREIGN KEY (`quote_address_id`) REFERENCES `sales_flat_quote_address` (`address_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_ADDRESS_ITEM_QUOTE_ADDRESS_ID` (`quote_address_id`),
+  KEY `IDX_SALES__QUOTE_ADDRESS_ITEM_PARENT_ITEM_ID` (`parent_item_id`),
+  KEY `IDX_SALES__QUOTE_ADDRESS_ITEM_QUOTE_ITEM_ID` (`quote_item_id`),
+  CONSTRAINT `FK_2EF8E28181D666D94D4E30DC2B0F80BF` FOREIGN KEY (`quote_item_id`) REFERENCES `sales_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_A345FC758F20C314169CE27DCE53477F` FOREIGN KEY (`parent_item_id`) REFERENCES `sales_quote_address_item` (`address_item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_B521389746C00700D1B2B76EBBE53854` FOREIGN KEY (`quote_address_id`) REFERENCES `sales_quote_address` (`address_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Address Item';
 
-/*Data for the table `sales_flat_quote_address_item` */
+/*Data for the table `sales_quote_address_item` */
 
-/*Table structure for table `sales_flat_quote_item` */
+/*Table structure for table `sales_quote_item` */
 
-CREATE TABLE `sales_flat_quote_item` (
+CREATE TABLE `sales_quote_item` (
   `item_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Item Id',
   `quote_id` int(10) unsigned NOT NULL COMMENT 'Quote Id',
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Created At',
@@ -6060,36 +6061,36 @@ CREATE TABLE `sales_flat_quote_item` (
   `hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Hidden Tax Amount',
   `base_hidden_tax_amount` decimal(12,4) DEFAULT NULL COMMENT 'Base Hidden Tax Amount',
   PRIMARY KEY (`item_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ITEM_PARENT_ITEM_ID` (`parent_item_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ITEM_PRODUCT_ID` (`product_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ITEM_QUOTE_ID` (`quote_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ITEM_STORE_ID` (`store_id`),
-  CONSTRAINT `FK_B201DEB5DE51B791AF5C5BF87053C5A7` FOREIGN KEY (`parent_item_id`) REFERENCES `sales_flat_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_ITEM_PRD_ID_CAT_PRD_ENTT_ENTT_ID` FOREIGN KEY (`product_id`) REFERENCES `catalog_product_entity` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_ITEM_QUOTE_ID_SALES_FLAT_QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_flat_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_ITEM_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_ITEM_PARENT_ITEM_ID` (`parent_item_id`),
+  KEY `IDX_SALES__QUOTE_ITEM_PRODUCT_ID` (`product_id`),
+  KEY `IDX_SALES__QUOTE_ITEM_QUOTE_ID` (`quote_id`),
+  KEY `IDX_SALES__QUOTE_ITEM_STORE_ID` (`store_id`),
+  CONSTRAINT `FK_B201DEB5DE51B791AF5C5BF87053C5A7` FOREIGN KEY (`parent_item_id`) REFERENCES `sales_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__QUOTE_ITEM_PRD_ID_CAT_PRD_ENTT_ENTT_ID` FOREIGN KEY (`product_id`) REFERENCES `catalog_product_entity` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__QUOTE_ITEM_QUOTE_ID_SALES__QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__QUOTE_ITEM_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Item';
 
-/*Data for the table `sales_flat_quote_item` */
+/*Data for the table `sales_quote_item` */
 
-/*Table structure for table `sales_flat_quote_item_option` */
+/*Table structure for table `sales_quote_item_option` */
 
-CREATE TABLE `sales_flat_quote_item_option` (
+CREATE TABLE `sales_quote_item_option` (
   `option_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Option Id',
   `item_id` int(10) unsigned NOT NULL COMMENT 'Item Id',
   `product_id` int(10) unsigned NOT NULL COMMENT 'Product Id',
   `code` varchar(255) NOT NULL COMMENT 'Code',
   `value` text COMMENT 'Value',
   PRIMARY KEY (`option_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_ITEM_OPTION_ITEM_ID` (`item_id`),
-  CONSTRAINT `FK_5F20E478CA64B6891EA8A9D6C2735739` FOREIGN KEY (`item_id`) REFERENCES `sales_flat_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_ITEM_OPTION_ITEM_ID` (`item_id`),
+  CONSTRAINT `FK_5F20E478CA64B6891EA8A9D6C2735739` FOREIGN KEY (`item_id`) REFERENCES `sales_quote_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Item Option';
 
-/*Data for the table `sales_flat_quote_item_option` */
+/*Data for the table `sales_quote_item_option` */
 
-/*Table structure for table `sales_flat_quote_payment` */
+/*Table structure for table `sales_quote_payment` */
 
-CREATE TABLE `sales_flat_quote_payment` (
+CREATE TABLE `sales_quote_payment` (
   `payment_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Payment Id',
   `quote_id` int(10) unsigned NOT NULL COMMENT 'Quote Id',
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Created At',
@@ -6116,15 +6117,15 @@ CREATE TABLE `sales_flat_quote_payment` (
   `additional_data` text COMMENT 'Additional Data',
   `cc_ss_issue` varchar(255) DEFAULT NULL COMMENT 'Cc Ss Issue',
   PRIMARY KEY (`payment_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_PAYMENT_QUOTE_ID` (`quote_id`),
-  CONSTRAINT `FK_SALES_FLAT_QUOTE_PAYMENT_QUOTE_ID_SALES_FLAT_QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_flat_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_PAYMENT_QUOTE_ID` (`quote_id`),
+  CONSTRAINT `FK_SALES__QUOTE_PAYMENT_QUOTE_ID_SALES__QUOTE_ENTITY_ID` FOREIGN KEY (`quote_id`) REFERENCES `sales_quote` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Payment';
 
-/*Data for the table `sales_flat_quote_payment` */
+/*Data for the table `sales_quote_payment` */
 
-/*Table structure for table `sales_flat_quote_shipping_rate` */
+/*Table structure for table `sales_quote_shipping_rate` */
 
-CREATE TABLE `sales_flat_quote_shipping_rate` (
+CREATE TABLE `sales_quote_shipping_rate` (
   `rate_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Rate Id',
   `address_id` int(10) unsigned NOT NULL COMMENT 'Address Id',
   `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'Created At',
@@ -6138,15 +6139,15 @@ CREATE TABLE `sales_flat_quote_shipping_rate` (
   `method_title` text COMMENT 'Method Title',
   `error_message` text COMMENT 'Error Message',
   PRIMARY KEY (`rate_id`),
-  KEY `IDX_SALES_FLAT_QUOTE_SHIPPING_RATE_ADDRESS_ID` (`address_id`),
-  CONSTRAINT `FK_B1F177EFB73D3EDF5322BA64AC48D150` FOREIGN KEY (`address_id`) REFERENCES `sales_flat_quote_address` (`address_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__QUOTE_SHIPPING_RATE_ADDRESS_ID` (`address_id`),
+  CONSTRAINT `FK_B1F177EFB73D3EDF5322BA64AC48D150` FOREIGN KEY (`address_id`) REFERENCES `sales_quote_address` (`address_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Quote Shipping Rate';
 
-/*Data for the table `sales_flat_quote_shipping_rate` */
+/*Data for the table `sales_quote_shipping_rate` */
 
-/*Table structure for table `sales_flat_shipment` */
+/*Table structure for table `sales_shipment` */
 
-CREATE TABLE `sales_flat_shipment` (
+CREATE TABLE `sales_shipment` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `total_weight` decimal(12,4) DEFAULT NULL COMMENT 'Total Weight',
@@ -6163,21 +6164,21 @@ CREATE TABLE `sales_flat_shipment` (
   `packages` text COMMENT 'Packed Products in Packages',
   `shipping_label` mediumblob COMMENT 'Shipping Label Content',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_SHIPMENT_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_TOTAL_QTY` (`total_qty`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_UPDATED_AT` (`updated_at`),
-  CONSTRAINT `FK_SALES_FLAT_SHIPMENT_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_SHIPMENT_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__SHIPMENT_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__SHIPMENT_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__SHIPMENT_TOTAL_QTY` (`total_qty`),
+  KEY `IDX_SALES__SHIPMENT_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__SHIPMENT_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__SHIPMENT_UPDATED_AT` (`updated_at`),
+  CONSTRAINT `FK_SALES__SHIPMENT_ORDER_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__SHIPMENT_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Shipment';
 
-/*Data for the table `sales_flat_shipment` */
+/*Data for the table `sales_shipment` */
 
-/*Table structure for table `sales_flat_shipment_comment` */
+/*Table structure for table `sales_shipment_comment` */
 
-CREATE TABLE `sales_flat_shipment_comment` (
+CREATE TABLE `sales_shipment_comment` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `is_customer_notified` int(11) DEFAULT NULL COMMENT 'Is Customer Notified',
@@ -6185,16 +6186,16 @@ CREATE TABLE `sales_flat_shipment_comment` (
   `comment` text COMMENT 'Comment',
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_COMMENT_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_COMMENT_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_C2D69CC1FB03D2B2B794B0439F6650CF` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__SHIPMENT_COMMENT_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__SHIPMENT_COMMENT_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_C2D69CC1FB03D2B2B794B0439F6650CF` FOREIGN KEY (`parent_id`) REFERENCES `sales_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Shipment Comment';
 
-/*Data for the table `sales_flat_shipment_comment` */
+/*Data for the table `sales_shipment_comment` */
 
-/*Table structure for table `sales_flat_shipment_grid` */
+/*Table structure for table `sales_shipment_grid` */
 
-CREATE TABLE `sales_flat_shipment_grid` (
+CREATE TABLE `sales_shipment_grid` (
   `entity_id` int(10) unsigned NOT NULL COMMENT 'Entity Id',
   `store_id` smallint(5) unsigned DEFAULT NULL COMMENT 'Store Id',
   `total_qty` decimal(12,4) DEFAULT NULL COMMENT 'Total Qty',
@@ -6206,24 +6207,24 @@ CREATE TABLE `sales_flat_shipment_grid` (
   `order_created_at` timestamp NULL DEFAULT NULL COMMENT 'Order Created At',
   `shipping_name` varchar(255) DEFAULT NULL COMMENT 'Shipping Name',
   PRIMARY KEY (`entity_id`),
-  UNIQUE KEY `UNQ_SALES_FLAT_SHIPMENT_GRID_INCREMENT_ID` (`increment_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_STORE_ID` (`store_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_TOTAL_QTY` (`total_qty`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_SHIPMENT_STATUS` (`shipment_status`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_CREATED_AT` (`created_at`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_ORDER_CREATED_AT` (`order_created_at`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_GRID_SHIPPING_NAME` (`shipping_name`),
-  CONSTRAINT `FK_SALES_FLAT_SHIPMENT_GRID_ENTT_ID_SALES_FLAT_SHIPMENT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_flat_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_FLAT_SHIPMENT_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
+  UNIQUE KEY `UNQ_SALES__SHIPMENT_GRID_INCREMENT_ID` (`increment_id`),
+  KEY `IDX_SALES__SHIPMENT_GRID_STORE_ID` (`store_id`),
+  KEY `IDX_SALES__SHIPMENT_GRID_TOTAL_QTY` (`total_qty`),
+  KEY `IDX_SALES__SHIPMENT_GRID_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__SHIPMENT_GRID_SHIPMENT_STATUS` (`shipment_status`),
+  KEY `IDX_SALES__SHIPMENT_GRID_ORDER_INCREMENT_ID` (`order_increment_id`),
+  KEY `IDX_SALES__SHIPMENT_GRID_CREATED_AT` (`created_at`),
+  KEY `IDX_SALES__SHIPMENT_GRID_ORDER_CREATED_AT` (`order_created_at`),
+  KEY `IDX_SALES__SHIPMENT_GRID_SHIPPING_NAME` (`shipping_name`),
+  CONSTRAINT `FK_SALES__SHIPMENT_GRID_ENTT_ID_SALES__SHIPMENT_ENTT_ID` FOREIGN KEY (`entity_id`) REFERENCES `sales_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES__SHIPMENT_GRID_STORE_ID_STORE_STORE_ID` FOREIGN KEY (`store_id`) REFERENCES `store` (`store_id`) ON DELETE SET NULL ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Shipment Grid';
 
-/*Data for the table `sales_flat_shipment_grid` */
+/*Data for the table `sales_shipment_grid` */
 
-/*Table structure for table `sales_flat_shipment_item` */
+/*Table structure for table `sales_shipment_item` */
 
-CREATE TABLE `sales_flat_shipment_item` (
+CREATE TABLE `sales_shipment_item` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `row_total` decimal(12,4) DEFAULT NULL COMMENT 'Row Total',
@@ -6237,15 +6238,15 @@ CREATE TABLE `sales_flat_shipment_item` (
   `name` varchar(255) DEFAULT NULL COMMENT 'Name',
   `sku` varchar(255) DEFAULT NULL COMMENT 'Sku',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_ITEM_PARENT_ID` (`parent_id`),
-  CONSTRAINT `FK_3AECE5007D18F159231B87E8306FC02A` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__SHIPMENT_ITEM_PARENT_ID` (`parent_id`),
+  CONSTRAINT `FK_3AECE5007D18F159231B87E8306FC02A` FOREIGN KEY (`parent_id`) REFERENCES `sales_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Shipment Item';
 
-/*Data for the table `sales_flat_shipment_item` */
+/*Data for the table `sales_shipment_item` */
 
-/*Table structure for table `sales_flat_shipment_track` */
+/*Table structure for table `sales_shipment_track` */
 
-CREATE TABLE `sales_flat_shipment_track` (
+CREATE TABLE `sales_shipment_track` (
   `entity_id` int(10) unsigned NOT NULL AUTO_INCREMENT COMMENT 'Entity Id',
   `parent_id` int(10) unsigned NOT NULL COMMENT 'Parent Id',
   `weight` decimal(12,4) DEFAULT NULL COMMENT 'Weight',
@@ -6258,13 +6259,13 @@ CREATE TABLE `sales_flat_shipment_track` (
   `created_at` timestamp NULL DEFAULT NULL COMMENT 'Created At',
   `updated_at` timestamp NULL DEFAULT NULL COMMENT 'Updated At',
   PRIMARY KEY (`entity_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_TRACK_PARENT_ID` (`parent_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_TRACK_ORDER_ID` (`order_id`),
-  KEY `IDX_SALES_FLAT_SHIPMENT_TRACK_CREATED_AT` (`created_at`),
-  CONSTRAINT `FK_BCD2FA28717D29F37E10A153E6F2F841` FOREIGN KEY (`parent_id`) REFERENCES `sales_flat_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  KEY `IDX_SALES__SHIPMENT_TRACK_PARENT_ID` (`parent_id`),
+  KEY `IDX_SALES__SHIPMENT_TRACK_ORDER_ID` (`order_id`),
+  KEY `IDX_SALES__SHIPMENT_TRACK_CREATED_AT` (`created_at`),
+  CONSTRAINT `FK_BCD2FA28717D29F37E10A153E6F2F841` FOREIGN KEY (`parent_id`) REFERENCES `sales_shipment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Flat Shipment Track';
 
-/*Data for the table `sales_flat_shipment_track` */
+/*Data for the table `sales_shipment_track` */
 
 /*Table structure for table `sales_invoiced_aggregated` */
 
@@ -6448,8 +6449,8 @@ CREATE TABLE `sales_order_tax_item` (
   KEY `IDX_SALES_ORDER_TAX_ITEM_TAX_ID` (`tax_id`),
   KEY `IDX_SALES_ORDER_TAX_ITEM_ITEM_ID` (`item_id`),
   KEY `FK_00C87A7B0B3E9E12299CF22F437F2746` (`associated_item_id`),
-  CONSTRAINT `FK_00C87A7B0B3E9E12299CF22F437F2746` FOREIGN KEY (`associated_item_id`) REFERENCES `sales_flat_order_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_ORDER_TAX_ITEM_ITEM_ID_SALES_FLAT_ORDER_ITEM_ITEM_ID` FOREIGN KEY (`item_id`) REFERENCES `sales_flat_order_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_00C87A7B0B3E9E12299CF22F437F2746` FOREIGN KEY (`associated_item_id`) REFERENCES `sales_order_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES_ORDER_TAX_ITEM_ITEM_ID_SALES__ORDER_ITEM_ITEM_ID` FOREIGN KEY (`item_id`) REFERENCES `sales_order_item` (`item_id`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `FK_SALES_ORDER_TAX_ITEM_TAX_ID_SALES_ORDER_TAX_TAX_ID` FOREIGN KEY (`tax_id`) REFERENCES `sales_order_tax` (`tax_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Order Tax Item';
 
@@ -6474,8 +6475,8 @@ CREATE TABLE `sales_payment_transaction` (
   KEY `IDX_SALES_PAYMENT_TRANSACTION_PARENT_ID` (`parent_id`),
   KEY `IDX_SALES_PAYMENT_TRANSACTION_PAYMENT_ID` (`payment_id`),
   CONSTRAINT `FK_B99FF1A06402D725EBDB0F3A7ECD47A2` FOREIGN KEY (`parent_id`) REFERENCES `sales_payment_transaction` (`transaction_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_DA51A10B2405B64A4DAEF77A64F0DAAD` FOREIGN KEY (`payment_id`) REFERENCES `sales_flat_order_payment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  CONSTRAINT `FK_SALES_PAYMENT_TRANSACTION_ORDER_ID_SALES_FLAT_ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
+  CONSTRAINT `FK_DA51A10B2405B64A4DAEF77A64F0DAAD` FOREIGN KEY (`payment_id`) REFERENCES `sales_order_payment` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_SALES_PAYMENT_TRANSACTION_ORDER_ID_SALES__ORDER_ENTITY_ID` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Payment Transaction';
 
 /*Data for the table `sales_payment_transaction` */
@@ -6535,7 +6536,7 @@ CREATE TABLE `sales_recurring_profile_order` (
   PRIMARY KEY (`link_id`),
   UNIQUE KEY `UNQ_SALES_RECURRING_PROFILE_ORDER_PROFILE_ID_ORDER_ID` (`profile_id`,`order_id`),
   KEY `IDX_SALES_RECURRING_PROFILE_ORDER_ORDER_ID` (`order_id`),
-  CONSTRAINT `FK_7FF85741C66DCD37A4FBE3E3255A5A01` FOREIGN KEY (`order_id`) REFERENCES `sales_flat_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `FK_7FF85741C66DCD37A4FBE3E3255A5A01` FOREIGN KEY (`order_id`) REFERENCES `sales_order` (`entity_id`) ON DELETE CASCADE ON UPDATE CASCADE,
   CONSTRAINT `FK_B8A7A5397B67455786E55461748C59F4` FOREIGN KEY (`profile_id`) REFERENCES `sales_recurring_profile` (`profile_id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Sales Recurring Profile Order';
 
