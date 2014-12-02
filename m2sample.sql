@@ -2515,8 +2515,6 @@ CREATE TABLE `core_config_data` (
 
 /*Data for the table `core_config_data` */
 
-insert  into `core_config_data`(`config_id`,`scope`,`scope_id`,`path`,`value`) values (1,'default',0,'web/seo/use_rewrites','1'),(2,'default',0,'web/unsecure/base_url','http://127.0.0.1/magento2.99/'),(3,'default',0,'web/secure/use_in_frontend','1'),(4,'default',0,'web/secure/base_url','http://127.0.0.1/magento2.99/'),(5,'default',0,'web/secure/use_in_adminhtml','1'),(6,'default',0,'general/locale/code','en_US'),(7,'default',0,'general/locale/timezone','Europe/Minsk'),(8,'default',0,'currency/options/base','EUR'),(9,'default',0,'currency/options/default','EUR'),(10,'default',0,'currency/options/allow','EUR'),(11,'default',0,'admin/security/use_form_key','1');
-
 /*Table structure for table `core_email_template` */
 
 CREATE TABLE `core_email_template` (

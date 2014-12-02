@@ -28,6 +28,9 @@ Magento 2-alpha106.
 Changelog
 ------------
 
+2014-12-02
+ - removed contents from core_config_data table. Forgot them there from one of my installs. :)
+
 2014-12-01
  - made compatible with alpha 106.
 
