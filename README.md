@@ -28,6 +28,9 @@ Magento 2-alpha106.
 Changelog
 ------------
 
+2014-12-04
+ - fixed [#3](https://github.com/tzyganu/m2-sample-data/issues/3)
+
 2014-12-02
  - removed contents from core_config_data table. Forgot them there from one of my installs. :)
 
