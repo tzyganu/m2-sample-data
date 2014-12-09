@@ -1,9 +1,3 @@
-/*
-SQLyog Community Edition- MySQL GUI v7.13 
-MySQL - 5.6.17 : Database - magento2_107_fixed
-*********************************************************************
-*/
-
 /*!40101 SET NAMES utf8 */;
 
 /*!40101 SET SQL_MODE=''*/;
