@@ -28,6 +28,9 @@ Magento 2-alpha107.
 Changelog
 ------------
 
+2014-12-15
+ - made compatible with alpha 108
+
 2014-12-04
  - fixed [#3](https://github.com/tzyganu/m2-sample-data/issues/3)
 
