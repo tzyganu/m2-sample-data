@@ -1,7 +1,8 @@
 Magento2 Sample Data
 ==============
 
-**T**
+**The version compatible with beta1 will be the last published version of this sample data.**  
+**Magento released a sample data for Magento 2. Use that one. It's far better than what I have.**
 
 This is an attempt at a sample data for Magento 2.0 until the official sample data gets out.
 It is based on the sample data from Magento CE 1.6.
