@@ -1,6 +1,8 @@
 Magento2 Sample Data
 ==============
 
+**T**
+
 This is an attempt at a sample data for Magento 2.0 until the official sample data gets out.
 It is based on the sample data from Magento CE 1.6.
 In fact, you should get the images for the products from the sample data `media` folder.
@@ -22,11 +24,14 @@ You also need to copy the `pub` folder in this repository over the `pub` folder 
 
 Last tested version
 ---------
-Magento 2-alpha107.
+Magento 0.42.0 - Beta 1.
 
 
 Changelog
 ------------
+
+2014-12-18
+ - made compatible with 0.42.0 - Beta 1.
 
 2014-12-15
  - made compatible with alpha 108
